@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kitsunePlusPlus
 - 👀 I'm a furry, and I like kitsune (incredible, isn't it ?).
 - 🧑‍💻 I'm comfortable with Python, and I' a _beginning_ C++ programmer.
-- 📪 You can contact me [on my instagram](https://www.instagram.com/lemecquiaimepython/).
+- 📪 You can contact me [on my instagram](https://www.instagram.com/kyu_plus_plus/).
 
 <!---
 sFenukkene/sFenukkene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
