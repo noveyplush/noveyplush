@@ -1,10 +1,10 @@
 # Hi 👋, my name's noveyplush ! Nice to meet you
 
-<p justify="center">
+<p align="center">
   <img alt="account profile picture" src="https://github.com/noveyplush.png" width="30%" style="border-radius: 50px;"/>
 </p>
 
-I pretend to know what I'm doing while listening to The Prodigy, The Glitch Mob and Grant Kirkhope.
+I pretend to know what I'm doing while listening to Justice, The Prodigy, The Glitch Mob and Grant Kirkhope.
 
 ## My skillset
 
